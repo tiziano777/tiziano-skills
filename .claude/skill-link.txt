@@ -1,0 +1,6 @@
+https://github.com/neondatabase/postgres-skills
+https://skills.rest/skill/aws-s3-skill
+https://github.com/skypilot-org/skypilot
+https://github.com/neo4j-contrib/neo4j-skills
+https://github.com/tirth8205/code-review-graph
+https://github.com/duckdb/duckdb-skills
